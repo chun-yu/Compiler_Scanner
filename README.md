@@ -1,6 +1,8 @@
 # Compiler_Scanner
 
-Scanner.c  is the code to convert the sequence of characters  into a sequence of tokens.
+scanner.c  is the code to convert the sequence of characters  into a sequence of tokens.
 
-Sample.c is a smaple c code file for tokenization.
+sample.c is a smaple c code file for tokenization.
+
+output.txt is the type corresponding to the extracted token code.
 
